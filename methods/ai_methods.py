@@ -16,8 +16,8 @@ class Template():
                 '{self.me}'"""
         return temp
     
-    def entryTemplate(self, matchingSkills):
-        temp = f"""Using bullet points above and additional information below, generate 50 word entry to my CV:
+    def entryTemplate(self, matchingSkills, noWords):
+        temp = f"""Using bullet points above and additional information below, generate {noWords} word entry to my CV:
                 {self.essSkills}
                 {matchingSkills}"""
         return temp

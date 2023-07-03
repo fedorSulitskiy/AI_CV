@@ -1,7 +1,0 @@
-Using bullet points below, generate 50 word entry to my CV:
-
-experienced in python, SQL, Node.js and REST API, software engineering, teamwork
-Node.js (match)
-Understanding of common OO design patterns (match)
-Ability to read/develop clean and self-documented code as part of a team (match)
-Ability to write clear technical documentation (match)
