@@ -10,7 +10,7 @@ Hence I made this simple tool to assist people like myself in this task! It allo
 
 2 - Add your openai API key to the secret.py file such as this:
 
-    OPENAI_KEY = "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"
+    OPENAI_KEY = "your-key-right-here"
 
 3 - In the /data/me.txt paste a few short bullet points about yourself to allow the model to compare info about you with the idea candidate
 
