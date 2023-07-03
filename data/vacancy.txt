@@ -1,0 +1,11 @@
+Real-world knowledge and experience with software quality and testing.
+A degree in a technical discipline.
+Ability to read and write code.
+We use JavaScript and Go a lot but your experience can be in any language.
+Passion for shipping products customers love.
+Know how to analyse and debug HTTP exchanges.
+An understanding of how Single Page Applications (ideally React) work.
+Embrace uncertainty and constantly challenge yourself and your team to improve.
+Have an eye for how to break things, and a healthy skepticism that sniffs out what might go wrong.
+Know how security, performance, usability, and scaling all contribute to quality.
+Believe in explicit communication.
