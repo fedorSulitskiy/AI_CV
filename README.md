@@ -12,9 +12,9 @@ Hence I made this simple tool to assist people like myself in this task! It allo
 
     OPENAI_KEY = "your-key-right-here"
 
-3 - In the /data/me.txt paste a few short bullet points about yourself to allow the model to compare info about you with the idea candidate
+3 - In the /data/me.txt paste a few short bullet points about yourself to allow the model to compare info about you with the ideal candidate
 
-4 - In the /data/vacancy.txt paste the bullet points / paragraph about the idea candidate for vacany you want to apply to
+4 - In the /data/vacancy.txt paste the bullet points / paragraph about the ideal candidate for vacany you want to apply to
 
 5 - Go to main.py and run this file. The rest should be apparent :)
 
